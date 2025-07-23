@@ -56,9 +56,7 @@ body {
     width: 100%;
 }
 .like-icon, .comment-icon, .share-icon {
-    margin:1px;
-
-: 1px;
+    margin: 1px;
 }
 .bookmark-icon {
     margin: 1px;
